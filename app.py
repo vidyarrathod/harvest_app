@@ -4,7 +4,6 @@ import pandas as pd
 from PIL import Image
 import time
 from datetime import datetime
-import plotly.express as px
 from plotly import graph_objects as go
 
 
